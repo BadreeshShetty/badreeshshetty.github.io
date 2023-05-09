@@ -1,4 +1,4 @@
-# Badreesh Shetty
+# Data Scientist
 
 +1(617)-971-7369          
 <shetty.b@northeastern.edu>          
@@ -11,7 +11,7 @@
 - Bachelor of Technology in Computer Science | University of Mumbai at Mumbai (_Aug 2018_)              
 
 ## Work Experience
-### Data Science Consultant, Centelon, Mumbai, India                                                                    Feb 2020 – May 2022
+### Data Scientist, Centelon, Mumbai, India, Feb 2020 – May 2022
 
 - Orchestrated the development and deployment of an Optical Character Recognition (OCR) application that streamlined the extraction of key information from over 30K pharmaceutical and financial company documents of different file types every month delivering a 48% reduction in manual effort along with maintaining codebase in Github for collaboration.
 - Led a team of 3 juniors in the conceptualization and execution of a fuzzy string-matching algorithm that significantly improved data accuracy and matching speed of extracted key information. Guided the team through the development process, resulting in a 20% decrease in overall processing time.

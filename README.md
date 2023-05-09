@@ -6,22 +6,11 @@
 [github.com/badreeshshetty](https://github.com/BadreeshShetty)	
 
 ## Education
-
-### Northeastern University, Master of Science in Business Analytics
-### Boston, MA                                                                               
-September 2022 – Dec 2023                     
-
-### International School of Engineering, Post Graduate Program in Data Science 
-### Mumbai, India                                                                    
-Jun 2019 - Nov 2019            
-
-
-### University of Mumbai, Bachelor of Technology in Computer Science
-### Mumbai, India                                                                                            
-Jun 2014 - Aug 2018          
+- Master of Science in Business Analytics, Physics | Northeastern University at Boston,MA (_Dec 2023_)								       		
+- Post Graduate Program in Data Science | International School of Engineering at Mumbai, India (_Nov 2019_)	 			        		
+- Bachelor of Technology in Computer Science | University of Mumbai at Mumbai (_Aug 2018_)              
 
 ## Work Experience
-
 ### Data Science Consultant, Centelon, Mumbai, India                                                                    Feb 2020 – May 2022
 
 - Orchestrated the development and deployment of an Optical Character Recognition (OCR) application that streamlined the extraction of key information from over 30K pharmaceutical and financial company documents of different file types every month delivering a 48% reduction in manual effort along with maintaining codebase in Github for collaboration.

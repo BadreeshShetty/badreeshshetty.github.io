@@ -1,3 +1,4 @@
 title: Badreesh Shetty
 theme: jekyll-theme-minimal
-skin: dark
+minima:
+  skin: dark

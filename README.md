@@ -1,9 +1,14 @@
 # Data Scientist
 
-+1(617)-971-7369          
-<shetty.b@northeastern.edu>          
-[linkedin.com/in/badreesh-shetty](https://www.linkedin.com/in/badreesh-shetty/)          
-[github.com/badreeshshetty](https://github.com/BadreeshShetty)	
+Phone: +1(617)-971-7369 \
+Location: Boston, MA, USA \
+Email: <shetty.b@northeastern.edu> \
+Alternative Email: <badreeshshetty@gmail.com> \
+Linkedin: [badreesh-shetty](https://www.linkedin.com/in/badreesh-shetty/)    
+Github: [BadreeshShetty](https://github.com/BadreeshShetty) \
+Medium: [badreeshshetty](https://medium.com/@badreeshshetty) \
+Built-In (Expert Author): [badreesh-shetty](https://builtin.com/authors/badreesh-shetty)
+
              
 
 ## Projects & Publications
@@ -43,7 +48,7 @@ The article describes a data visualization challenge hosted by the Reddit commun
 
 
 ## Publication Statistics:
-The above published articles have garnered over 1 million views and have been cited in over 40 @ [Google Scholar](https://scholar.google.com/citations?hl=en&user=Co3P1TwAAAAJ) with a focus on machine learning and data science concepts.
+The above published articles have garnered over 1 million views and have been cited in over 40 studies @ [Google Scholar](https://scholar.google.com/citations?hl=en&user=Co3P1TwAAAAJ) with a focus on machine learning and data science concepts.
 
 - Syndicated 4 articles in [Built-In](https://builtin.com/authors/badreesh-shetty), a reputable publisher as an expert contributor in the Data Science Domain.
 - Authored and contributed articles on Medium's [TowardsDataScience](https://medium.com/@badreeshshetty) platform, gaining 1,100 followers.

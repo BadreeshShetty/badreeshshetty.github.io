@@ -14,13 +14,13 @@ Data Science Portfolio: [badreeshshetty](https://www.datascienceportfol.io/badre
 
 ## Projects & Publications
 
-- Data Analysis comparing GDP,GDP/Capita, Population IMF Data of 196 countries with SP 500/Russell 3000 Data, 
-[Website](https://badreeshshetty-gdp-ceo-check-app-xxsa6n.streamlit.app/) and [Github](https://github.com/BadreeshShetty/GDP-CEO-Check) \
-Conducted a comprehensive data analysis of GDP, GDP per capita, and population statistics from the International Monetary Fund (IMF) for 196 countries, comparing them with data from the S&P 500 and Russell 3000 indices. Using this analysis, Developed a web application that provides a user-friendly interface to showcase key comparisons between countries and companies, along with their respective attributes.
+### Data Analysis comparing GDP,GDP/Capita, Population IMF Data of 196 countries with SP 500/Russell 3000 Data
+[Website](https://badreeshshetty-gdp-ceo-check-app-xxsa6n.streamlit.app/) and [Github](https://github.com/BadreeshShetty/GDP-CEO-Check)
+- Conducted a comprehensive data analysis of GDP, GDP per capita, and population statistics from the International Monetary Fund (IMF) for 196 countries, comparing them with data from the S&P 500 and Russell 3000 indices. Using this analysis, Developed a web application that provides a user-friendly interface to showcase key comparisons between countries and companies, along with their respective attributes.
 
-- Recommender for Student Housing in Boston, 
-[Website](https://badreeshshetty-housing-streamlit-heroku-viz-app-3u7yj7.streamlit.app/) and [GitHub](https://github.com/BadreeshShetty/Housing-Streamlit-Heroku) \
-Designed a geospatial web app using Python, Tableau, and data from Analyze Boston and Zillow, enabling Boston students to easily search for nearby properties and events.
+### Recommender for Student Housing in Boston
+[Website](https://badreeshshetty-housing-streamlit-heroku-viz-app-3u7yj7.streamlit.app/) and [GitHub](https://github.com/BadreeshShetty/Housing-Streamlit-Heroku)
+- Designed a geospatial web app using Python, Tableau, and data from Analyze Boston and Zillow, enabling Boston students to easily search for nearby properties and events.
 
 
 ## Published articles:

@@ -8,7 +8,7 @@ Linkedin: [badreesh-shetty](https://www.linkedin.com/in/badreesh-shetty/)
 Github: [BadreeshShetty](https://github.com/BadreeshShetty) \
 Medium: [badreeshshetty](https://medium.com/@badreeshshetty) \
 Built-In (Expert Author): [badreesh-shetty](https://builtin.com/authors/badreesh-shetty) \
-Tableau: [badreeshshetty](https://public.tableau.com/app/profile/badreesh.shetty)
+Tableau: [badreeshshetty](https://public.tableau.com/app/profile/badreesh.shetty) \
 Data Science Portfolio: [badreeshshetty](https://www.datascienceportfol.io/badreeshshetty)
 
              

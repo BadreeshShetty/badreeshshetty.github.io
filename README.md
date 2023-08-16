@@ -22,6 +22,8 @@ Data Science Portfolio: [badreeshshetty](https://www.datascienceportfol.io/badre
 ### Recommender for Student Housing in Boston
 [Website](https://badreeshshetty-housing-streamlit-heroku-viz-app-3u7yj7.streamlit.app/) and [GitHub](https://github.com/BadreeshShetty/Housing-Streamlit-Heroku)
 - Designed a geospatial web app using Python, Tableau, and data from Analyze Boston and Zillow, enabling Boston students to easily search for nearby properties and events.
+- <img width="1470" alt="Recommender for Student Housing in Boston" src="https://github.com/BadreeshShetty/badreeshshetty.github.io/assets/18227758/86a742b6-78db-4c92-94b5-a2daa2fa0174">
+
 
 
 ## Published articles:

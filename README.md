@@ -10,8 +10,13 @@ Medium: [badreeshshetty](https://medium.com/@badreeshshetty) \
 Built-In (Expert Author): [badreesh-shetty](https://builtin.com/authors/badreesh-shetty) \
 Tableau: [badreesh.shetty](https://public.tableau.com/app/profile/badreesh.shetty) \
 Data Science Portfolio: [badreeshshetty](https://www.datascienceportfol.io/badreeshshetty)
+Google Scholar: [badreeshshetty](https://scholar.google.com/citations?hl=en&user=Co3P1TwAAAAJ)
 
-             
+## Publication Statistics:
+The published articles have garnered over 1 million views and have been cited in over 60 + studies @ [Google Scholar](https://scholar.google.com/citations?hl=en&user=Co3P1TwAAAAJ) with a focus on machine learning and data science concepts.
+
+- Syndicated 4 articles in [Built-In](https://builtin.com/authors/badreesh-shetty), a reputable publisher as an expert contributor in the Data Science Domain.
+- Authored and contributed articles on Medium's [TowardsDataScience](https://medium.com/@badreeshshetty) platform, gaining over 1,100 followers.  
 
 ## Projects & Publications
 
@@ -25,7 +30,6 @@ Data Science Portfolio: [badreeshshetty](https://www.datascienceportfol.io/badre
 [Website](https://badreeshshetty-housing-streamlit-heroku-viz-app-3u7yj7.streamlit.app/) and [GitHub](https://github.com/BadreeshShetty/Housing-Streamlit-Heroku)
 - Designed a geospatial web app using Python, Tableau, and data from Analyze Boston and Zillow, enabling Boston students to easily search for nearby properties and events.
   <img width="1470" alt="Recommender for Student Housing in Boston" src="https://github.com/BadreeshShetty/badreeshshetty.github.io/assets/18227758/86a742b6-78db-4c92-94b5-a2daa2fa0174">
-
 
 
 ## Published articles:
@@ -54,10 +58,6 @@ This article discusses the use of deep learning and image processing techniques 
 The article describes a data visualization challenge hosted by the Reddit community, where participants were asked to create visualizations of astronaut data provided by NASA. Walking through exploratory data analysis and visualization techniques used in the challenge.
 
 
-## Publication Statistics:
-The above published articles have garnered over 1 million views and have been cited in over 40 studies @ [Google Scholar](https://scholar.google.com/citations?hl=en&user=Co3P1TwAAAAJ) with a focus on machine learning and data science concepts.
 
-- Syndicated 4 articles in [Built-In](https://builtin.com/authors/badreesh-shetty), a reputable publisher as an expert contributor in the Data Science Domain.
-- Authored and contributed articles on Medium's [TowardsDataScience](https://medium.com/@badreeshshetty) platform, gaining 1,100 followers.
 
 

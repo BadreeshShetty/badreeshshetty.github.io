@@ -9,7 +9,7 @@ Github: [BadreeshShetty](https://github.com/BadreeshShetty) \
 Medium: [badreeshshetty](https://medium.com/@badreeshshetty) \
 Built-In (Expert Author): [badreesh-shetty](https://builtin.com/authors/badreesh-shetty) \
 Tableau: [badreesh.shetty](https://public.tableau.com/app/profile/badreesh.shetty) \
-Data Science Portfolio: [badreeshshetty](https://www.datascienceportfol.io/badreeshshetty)
+Data Science Portfolio: [badreeshshetty](https://www.datascienceportfol.io/badreeshshetty) \
 Google Scholar: [badreeshshetty](https://scholar.google.com/citations?hl=en&user=Co3P1TwAAAAJ)
 
 ## Publication Statistics:

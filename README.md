@@ -20,6 +20,12 @@ The published articles have garnered over 1 million views and have been cited in
 
 ## Projects & Publications
 
+### Data Engineering Project: ETL and ELT using AWS, Airflow, DBT, Snowflake, Streamlit, Python, and SQL
+[Website](https://grape-liquid-f37.notion.site/Data-Engineering-Project-ETL-and-ELT-AWS-Airflow-DBT-Snowflake-Streamlit-Python-SQL-14525b307afe4438bda2274903725ab5)
+[Youtube Link](https://www.youtube.com/watch?v=lFwdFiiomzU)
+- This project demonstrates my expertise in Data Engineering through a comprehensive ETL and ELT pipeline. Leveraging AWS for cloud services, Airflow for orchestration, DBT for data transformations, Snowflake for warehousing, Streamlit for interactive dashboards, Python for scripting, and SQL for database management, I gathered and processed NBA scores, analyzed top 100 players of the 2024 season and top 500 players of all time, and integrated NBA-related news using NewsAPI. This end-to-end project showcases my ability to manage complex data workflows and deliver actionable insights.
+
+
 ### Data Analysis comparing GDP, GDP/Capita, Population IMF Data of 196 countries with SP 500/Russell 3000 Data
 [Website](https://badreeshshetty-gdp-ceo-check-app-xxsa6n.streamlit.app/) and [Github](https://github.com/BadreeshShetty/GDP-CEO-Check)
 - Conducted a comprehensive data analysis of GDP, GDP per capita, and population statistics from the International Monetary Fund (IMF) for 196 countries, comparing them with data from the S&P 500 and Russell 3000 indices. Using this analysis, Developed a web application that provides a user-friendly interface to showcase key comparisons between countries and companies, along with their respective attributes.

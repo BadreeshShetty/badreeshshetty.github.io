@@ -31,8 +31,8 @@ The published articles have garnered over 1 million views and have been cited in
 [Blog](https://www.notion.so/Stadium-Data-Analytics-Engineering-Project-Docker-Airflow-AWS-Web-Scraping-Python-SQL-Snowfla-fefe58f90cd4470cbc97113873df80c8) and 
 [Youtube Link](https://www.youtube.com/watch?v=woFmyflvnng) and
 [GitHub](https://github.com/BadreeshShetty/DE-Stadiums)
-- This project demonstrates my expertise in Data Engineering through a comprehensive ETL and ELT pipeline. Leveraging AWS for cloud services, Airflow for orchestration, DBT for data transformations, Snowflake for warehousing, Streamlit for interactive dashboards, Python for scripting, and SQL for database management, I gathered and processed NBA scores, analyzed top 100 players of the 2024 season and top 500 players of all time, and integrated NBA-related news using NewsAPI. This end-to-end project showcases my ability to manage complex data workflows and deliver actionable insights.
-  <img width="1470" alt="DE-ELT" src="https://raw.githubusercontent.com/BadreeshShetty/Data-Engineering-ELT-NBA-New-Stats/main/Snowflake%20Top%20100%20Rank%202024.png">
+- This project demonstrates my proficiency in Data Engineering by developing a robust ETL pipeline for stadium data. Utilizing Docker for containerization, Airflow for workflow orchestration, and AWS S3 for cloud storage, I designed and implemented a system for scraping, transforming, and loading data using BeautifulSoup for web scraping, Snowflake for data warehousing, and Tableau for visualization. Python was employed for scripting and SQL for database management, ensuring seamless data processing and insightful reporting. This end-to-end project highlights my capability to handle intricate data workflows and generate valuable insights from diverse data sources.
+  <img width="1470" alt="DE-ELT" src="https://raw.githubusercontent.com/BadreeshShetty/DE-Stadiums/main/DAE-Stadiums.png">
 
 
 

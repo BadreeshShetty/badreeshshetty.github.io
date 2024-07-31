@@ -13,7 +13,7 @@ Data Science Portfolio: [badreeshshetty](https://www.datascienceportfol.io/badre
 Google Scholar: [badreeshshetty](https://scholar.google.com/citations?hl=en&user=Co3P1TwAAAAJ)
 
 ## Publication Statistics:
-The published articles have garnered over 1 million views and have been cited in over 60 + studies @ [Google Scholar](https://scholar.google.com/citations?hl=en&user=Co3P1TwAAAAJ) with a focus on machine learning and data science concepts.
+The published articles have garnered over 1 million views and have been cited in over 80 + studies @ [Google Scholar](https://scholar.google.com/citations?hl=en&user=Co3P1TwAAAAJ) with a focus on machine learning and data science concepts.
 
 - Syndicated 4 articles in [Built-In](https://builtin.com/authors/badreesh-shetty), a reputable publisher as an expert contributor in the Data Science Domain.
 - Authored and contributed articles on Medium's [TowardsDataScience](https://medium.com/@badreeshshetty) platform, gaining over 1,100 followers.  

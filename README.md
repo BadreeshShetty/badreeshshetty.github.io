@@ -1,7 +1,7 @@
 # Data Engineer
 
 Phone: +1(617)-971-7369 \
-Location: Boston, MA, USA \
+Location: Jersey Ciy, NJ, USA \
 Email: <shetty.b@northeastern.edu> \
 Alternative Email: <badreeshshetty@gmail.com> \
 Linkedin: [badreesh-shetty](https://www.linkedin.com/in/badreesh-shetty/)    
